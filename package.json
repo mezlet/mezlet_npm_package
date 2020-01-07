@@ -1,5 +1,5 @@
 {
-  "name": "my_package",
+  "name": "mezlet_npm_package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "keywords": [
     "node",
     "npm"
-  ]
+  ],
+  "homepage": "https://github.com/mezlet/mezlet_npm_package"
 }
